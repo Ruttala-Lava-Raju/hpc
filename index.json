@@ -28,20 +28,10 @@
             "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=njwQwB2k&page_offset=1&page_limit=100"
         },
         {
-            "preset_name": "MyList",
-            "index": 6,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/favorites"
-        },
-        {
             "preset_name": "16x9-NoTitle",
             "index": 7,
             "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=Zhui2I7X&page_offset=1&page_limit=100",
             "extensions": {}
-        },
-        {
-            "preset_name": "ContinueWatching",
-            "index": 8,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/continuewatch"
         },
         {
             "preset_name": "16x9-NoTitle",
@@ -191,48 +181,6 @@
             "preset_name": "2x3-NoTitle",
             "index": 33,
             "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=T7My26RQ&page_offset=1&page_limit=100"
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 34,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=Igb7FIl4&page_offset=1&page_limit=100",
-            "extensions": {}
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 35,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=wKLi3IMr&page_offset=1&page_limit=100",
-            "extensions": {}
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 36,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=xPVErxOA&page_offset=1&page_limit=100",
-            "extensions": {}
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 37,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=osGhbW8a&page_offset=1&page_limit=100",
-            "extensions": {}
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 38,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=PQA0W1V7&page_offset=1&page_limit=100",
-            "extensions": {}
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 39,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=SL20oAqi&page_offset=1&page_limit=100",
-            "extensions": {}
-        },
-        {
-            "preset_name": "16x9-NoTitle",
-            "index": 40,
-            "feed_url": "https://tbndsp-prod.trilogyapps.com/v1/virtualfeed?playlistid=PweKgfhT&page_offset=1&page_limit=100",
-            "extensions": {}
         }
     ]
 }
