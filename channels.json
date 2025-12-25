@@ -1,0 +1,79 @@
+{
+    "entry": [
+        {
+            "extensions": {
+                "mediaid": "icNwL50b",
+                "network": "Kanal Hayat"
+            },
+            "id": "9981f58d-195a-4f1b-b0e1-6143e0f0e491",
+            "media_group": [
+                {
+                    "media_item": [
+                        {
+                            "key": "image_base",
+                            "src": "https://cdn.jwplayer.com/v2/media/icNwL50b/poster.jpg?width=320"
+                        },
+                        {
+                            "key": "thumb_1",
+                            "src": null
+                        },
+                        {
+                            "key": "thumb_2",
+                            "src": null
+                        },
+                        {
+                            "key": "thumb_3",
+                            "src": null
+                        }
+                    ],
+                    "type": "image"
+                }
+            ],
+            "title": "TBN",
+            "type": {
+                "value": "epg-channel"
+            }
+        },
+        {
+            "extensions": {
+                "mediaid": "LNW67a9Z",
+                "network": "Kanal Hayat"
+            },
+            "id": "1054faba-dc1d-4b3f-89f6-b81b2144f46a",
+            "media_group": [
+                {
+                    "media_item": [
+                        {
+                            "key": "image_base",
+                            "src": "https://cdn.jwplayer.com/v2/media/LNW67a9Z/poster.jpg?width=320"
+                        },
+                        {
+                            "key": "thumb_1",
+                            "src": null
+                        },
+                        {
+                            "key": "thumb_2",
+                            "src": null
+                        },
+                        {
+                            "key": "thumb_3",
+                            "src": null
+                        }
+                    ],
+                    "type": "image"
+                }
+            ],
+            "summary": "",
+            "title": "TBN Teaching & Worship",
+            "type": {
+                "value": "epg-channel"
+            }
+        }
+    ],
+    "extensions": {},
+    "id": "a925342e-8bd2-4a2c-b0f6-1ba7bfd59318",
+    "title": "PROD | EPG Channel Feed",
+    "type": {
+        "value": "feed"
+    }
+}
