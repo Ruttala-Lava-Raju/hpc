@@ -1,0 +1,141 @@
+{
+    "entry": [
+        {
+            "extensions": {
+                "isVirtualFeed": true,
+                "jwPlaylistId": "b2c2050e"
+            },
+            "id": "e9806670-76c2-4bbe-a398-af39cd8c9ec8",
+            "title": "Featured",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "WUq7XKzA"
+            },
+            "id": "e169795a-f140-4896-9b95-faff84394f8d",
+            "title": "All Shows",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "oyL7iSRi"
+            },
+            "id": "bb60c344-e327-40b1-b1e9-68f7b3d54086",
+            "title": "Movies",
+            "type": {
+                "value": "video"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "55ezUZBU"
+            },
+            "id": "56c7734d-920e-47fb-875e-019a3e33a522",
+            "title": "Documentary",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "1DPlpguw"
+            },
+            "id": "170a9bdc-d66f-48e0-9c8a-141b28f60404",
+            "title": "Educational",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "Q70rfWca"
+            },
+            "id": "c1df651f-dacf-4edd-9f27-61aabcbf4204",
+            "title": "History",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "bXFvJZxt"
+            },
+            "id": "f7de9f5d-6535-4140-bb70-d14cbf6e1d15",
+            "title": "Music",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "g8gyBkuF"
+            },
+            "id": "38b666d2-6dc2-4fd9-a9b3-8775631ea15d",
+            "title": "News",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "jOeG6bde"
+            },
+            "id": "464fe8cf-39b6-4b1c-ae45-9ab03e191a28",
+            "title": "Reality",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "j8tXfAP3"
+            },
+            "id": "c72f366f-4af3-498e-b38e-778c46cfb57c",
+            "title": "Series",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "YWoSiWcE"
+            },
+            "id": "4336e10c-d1b6-43a6-833b-167f50bf115f",
+            "title": "Talk Shows",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "Rgr7n4y5"
+            },
+            "id": "c4d9b3ea-9de1-45a9-acf7-119199da8db4",
+            "title": "Teaching",
+            "type": {
+                "value": "genre"
+            }
+        },
+        {
+            "extensions": {
+                "jwPlaylistId": "jk8DbEki"
+            },
+            "id": "fce91a46-f416-43c5-9a75-d444b67cb321",
+            "title": "Travel",
+            "type": {
+                "value": "genre"
+            }
+        }
+    ],
+    "extensions": {},
+    "id": "d5f7fa4e-1089-40d8-94ac-1da1cb7a3d1b",
+    "title": "Program Genres VF| Showcase",
+    "type": {
+        "value": "feed"
+    }
+}
