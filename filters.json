@@ -3,7 +3,7 @@
         {
             "extensions": {
                 "isVirtualFeed": true,
-                "jwPlaylistId": "b2c2050e"
+                "jwPlaylistId": "koVrfceP"
             },
             "id": "e9806670-76c2-4bbe-a398-af39cd8c9ec8",
             "title": "Featured",
@@ -13,7 +13,7 @@
         },
         {
             "extensions": {
-                "jwPlaylistId": "WUq7XKzA"
+                "jwPlaylistId": "4LTgQTo0"
             },
             "id": "e169795a-f140-4896-9b95-faff84394f8d",
             "title": "All Shows",
@@ -23,17 +23,17 @@
         },
         {
             "extensions": {
-                "jwPlaylistId": "oyL7iSRi"
+                "jwPlaylistId": "18QTBqpG"
             },
             "id": "bb60c344-e327-40b1-b1e9-68f7b3d54086",
             "title": "Movies",
             "type": {
-                "value": "video"
+                "value": "genre"
             }
         },
         {
             "extensions": {
-                "jwPlaylistId": "55ezUZBU"
+                "jwPlaylistId": "ta2qojGv"
             },
             "id": "56c7734d-920e-47fb-875e-019a3e33a522",
             "title": "Documentary",
